@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="assets/portrait2.jpg">
+<img width="20%" src="assets/portrait2.jpg">
 
 
 <!--

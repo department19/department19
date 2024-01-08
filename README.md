@@ -1,4 +1,6 @@
 ### Hi there 👋
+<img src="assets/portrait2.jpg">
+
 
 <!--
 **department19/department19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

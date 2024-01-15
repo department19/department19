@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile)
 
-I'm a aspiring software developler studying with [Founders and Coders](https://www.foundersandcoders.com/)
+I'm an aspiring software developler studying with [Founders and Coders](https://www.foundersandcoders.com/)
 
 ## Languages and Tools
 

@@ -1,38 +1,30 @@
 <img width="20%" src="assets/portrait2.jpg">
-# Hello, I'm [Your Name] 👋
+
+# Hello, I'm Jack L
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/your-twitter-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://your-portfolio-url.com)
 
-## 🚀 About Me
+I'm a aspiring software developler studying with [Founders and Coders](https://www.foundersandcoders.com/)
 
-I'm a passionate [Your Role] based in [Your Location]. My interests include [Your Interests/Hobbies].
+## Languages and Tools
 
-## 🔧 Technologies & Tools
+<table>
+    <tr>
+        <td width="33%" valign="top">
+            <div>  
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+            </div>
+        </td>
+    </tr>
+</table>
 
-![Tech1](https://img.shields.io/badge/-Tech1-333333?style=flat&logo=tech1)
-![Tech2](https://img.shields.io/badge/-Tech2-333333?style=flat&logo=tech2)
-![Tech3](https://img.shields.io/badge/-Tech3-333333?style=flat&logo=tech3)
+<!-- ## 📊 GitHub Stats -->
 
-## 🛠️ Skills
-
-- **Languages:** [Your Languages]
-- **Frameworks:** [Your Frameworks]
-- **Tools:** [Your Tools]
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=contribs,issues&theme=radical)
+<!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=contribs,issues&theme=radical) -->
 
 ## 🌱 I’m currently learning
 
 - [Something you're learning]
-
-## 👨‍💻 Projects
-
-- [Project 1](https://github.com/your-username/project1)
-- [Project 2](https://github.com/your-username/project2)
 
 ## 📫 How to reach me
 

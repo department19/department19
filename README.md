@@ -12,7 +12,7 @@ I'm an aspiring software developler studying with [Founders and Coders](https://
     <tr>
         <td width="33%" valign="top">
             <div>  
-                <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+                <img width="15%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
             </div>
         </td>
     </tr>

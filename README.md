@@ -27,17 +27,17 @@ I'm an aspiring software developler studying with [Founders and Coders](https://
 
 ## 🌱 I’m currently learning
 
-- [Something you're learning]
+- 
 
-## 📫 How to reach me
+<!-- ## 📫 How to reach me -->
 
-- Email: your.email@example.com
+<!-- - Email: your.email@example.com -->
 
-## ⚡ Fun Fact
+<!-- ## ⚡ Fun Fact -->
 
-[Random fun fact about yourself]
+<!-- [Random fun fact about yourself] -->
 
-Thanks for visiting my profile! 😄
+<!-- Thanks for visiting my profile! 😄 -->
 
 
 

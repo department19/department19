@@ -1,10 +1,11 @@
 <img width="20%" src="assets/portrait2.jpg">
 
-# Hello, I'm Jack L
-
+### Hello, I'm Jack L
+#### Student Software Developer
+![Portrait](./assets/portrait2.jpg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile)
 
-I'm an aspiring software developler studying with [Founders and Coders](https://www.foundersandcoders.com/)
+I'm an aspiring software developler  with [Founders and Coders](https://www.foundersandcoders.com/)
 
 ## Languages and Tools
 

@@ -11,7 +11,7 @@ Currently learning Express.js and integrating APIs in to fullstack apps
 
 ## Languages and Tools
 
-<table width="100%"><tr>
+<table><tr>
         <td width="33%" valign="top">
             <div align="center">  
                 <h3>Languages</h3>

@@ -15,7 +15,7 @@ Currently learning Express.js and integrating APIs in to fullstack apps
     <tr>
         <td width="33%" valign="top">
                 <h3>Languages</h3>
-            <div>  
+            <div align="center">  
                 <img width="40px" height="40px" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
                 <img width="40px" height="40px" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
                 <img width="40px" height="40px" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />

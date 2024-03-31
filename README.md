@@ -1,8 +1,8 @@
-<img width="20%" src="assets/portrait2.jpg">
+![banner](./assets/github-jsdev-banner.png)
 
 ### Hello, I'm Jack L
 #### Student Software Developer
-![Portrait](./assets/portrait2.jpg)
+<img width="20%" src="assets/portrait2.jpg">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile)
 
 I'm an aspiring software developler  with [Founders and Coders](https://www.foundersandcoders.com/)
@@ -29,30 +29,3 @@ I'm an aspiring software developler  with [Founders and Coders](https://www.foun
 ## 🌱 I’m currently learning
 
 - 
-
-<!-- ## 📫 How to reach me -->
-
-<!-- - Email: your.email@example.com -->
-
-<!-- ## ⚡ Fun Fact -->
-
-<!-- [Random fun fact about yourself] -->
-
-<!-- Thanks for visiting my profile! 😄 -->
-
-
-
-<!--
-**department19/department19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

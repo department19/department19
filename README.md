@@ -11,8 +11,7 @@ Currently learning Express.js and integrating APIs in to fullstack apps
 
 ## Languages and Tools
 
-<table width="100%">
-    <tr>
+<table width="100%"><tr>
         <td width="33%" valign="top">
                 <h3 align="center">Languages</h3>
             <div align="center">  
@@ -38,8 +37,7 @@ Currently learning Express.js and integrating APIs in to fullstack apps
                 <img width="40px" height="40px" alt="terraform" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
             </div>
         </td>
-    </tr>
-</table>
+</tr></table>
 
 <!-- ## 📊 GitHub Stats -->
 

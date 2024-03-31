@@ -1,4 +1,4 @@
-![banner](./assets/github-jsdev-banner.png)
+![banner](./assets/Banners/github-jsdev-banner.png)
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile) -->
 

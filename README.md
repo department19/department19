@@ -2,7 +2,11 @@
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile) -->
 
-I'm an aspiring software developler with [Founders and Coders](https://www.foundersandcoders.com/)
+Graduate of Cohort 30 with [Founders and Coders](https://www.foundersandcoders.com/)
+
+I am a Software Developer honing my knowledge in Javascript and Web Design
+
+Currently learning Express.js and integrating APIs in to fullstack apps
 
 ## Languages and Tools
 

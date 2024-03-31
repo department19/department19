@@ -11,7 +11,7 @@ Currently learning Express.js and integrating APIs in to fullstack apps
 
 ## Languages and Tools
 
-<table width="120%">
+<table width="100%">
     <tr>
         <td width="33%" valign="top">
                 <h3>Languages</h3>
@@ -24,7 +24,7 @@ Currently learning Express.js and integrating APIs in to fullstack apps
         </td>
         <td width="33%" valign="top">
                 <h3 align="center">Frameworks and Tools</h3>
-            <div >  
+            <div>  
                 <img width="40px" height="40px" alt="nodejs" src="./assets/icons/nodejs-icon.png" />
                 <img width="40px" height="40px" alt="expressjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
                 <img width="40px" height="40px" alt="rails" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" />

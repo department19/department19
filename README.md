@@ -2,7 +2,7 @@
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile) -->
 
-I'm an aspiring software developler  with [Founders and Coders](https://www.foundersandcoders.com/)
+I'm an aspiring software developler with [Founders and Coders](https://www.foundersandcoders.com/)
 
 ## Languages and Tools
 
@@ -10,10 +10,10 @@ I'm an aspiring software developler  with [Founders and Coders](https://www.foun
     <tr>
         <td width="33%" valign="top">
             <div>  
-                <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-                <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-                <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-                <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+                <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+                <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+                <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+                <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
             </div>
         </td>
     </tr>

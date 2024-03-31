@@ -1,4 +1,5 @@
-![banner](./assets/Banners/github-jsdev-banner.png)
+<!-- ![banner](./assets/Banners/github-jsdev-banner.png) -->
+<img width="100%" alt="banner" src="./assets/Banners/github-jsdev-banner.png">
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile) -->
 
@@ -10,7 +11,7 @@ Currently learning Express.js and integrating APIs in to fullstack apps
 
 ## Languages and Tools
 
-<table>
+<table width="100%">
     <tr>
         <td width="33%" valign="top">
                 <h3>Languages</h3>

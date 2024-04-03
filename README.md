@@ -1,11 +1,8 @@
-<!-- ![banner](./assets/Banners/github-jsdev-banner.png) -->
 <img width="100%" alt="banner" src="./assets/Banners/github-jsdev-banner.png">
-
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile) -->
 
 Graduate of Cohort 30 with [Founders and Coders](https://www.foundersandcoders.com/)
 
-I am a Software Developer honing my knowledge in Javascript and Web Design
+I am a Software Developer honing my knowledge in Javascript and Web Design. If I'm not studying, you'll find me playing Volleyball! 🏐
 
 Currently learning Express.js and integrating APIs in to fullstack apps
 
